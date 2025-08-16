@@ -18,7 +18,7 @@ It provides insights into revenue, customer behavior, top products, and city-wis
 -Top 10 Cities by Orders
 
 ##  Dashboard Preview
-![Dashboard Screenshot](./images/dashboard.jpg)
+![Dashboard Screenshot](https://github.com/Junaid30121997/FNP-Excel-Analytics-Project/blob/main/1732002842215.jpg)
 
 ## Repository Structure
 
