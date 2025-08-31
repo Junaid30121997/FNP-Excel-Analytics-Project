@@ -41,13 +41,13 @@ It provides insights into revenue, customer behavior, top products, and city-wis
 
 ## Tools Used
 
-Microsoft Excel
-Pivot Tables
-Slicers
-Charts & Graphs
-Dashboard Design
+- Microsoft Excel
+- Pivot Tables
+- Slicers
+- Charts & Graphs
+- Dashboard Design
 
 ## Connect with Me
-LinkedIn: https://www.linkedin.com/in/mohammadjunaidahmed/
-GitHub Portfolio: https://github.com/Junaid30121997
-Email: mohammedjunaid689@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mohammadjunaidahmed/
+- GitHub Portfolio: https://github.com/Junaid30121997
+- Email: mohammedjunaid689@gmail.com
