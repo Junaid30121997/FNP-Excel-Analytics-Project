@@ -33,8 +33,9 @@ It provides insights into revenue, customer behavior, top products, and city-wis
 ## Repository Structure
 
 - /data → Raw/Processed datasets
-- https://github.com/Junaid30121997/FNP-Excel-Analytics-Project/blob/main/customers.csv
-- https://github.com/Junaid30121997/FNP-Excel-Analytics-Project/blob/main/orders.csv
+- Customer - https://github.com/Junaid30121997/FNP-Excel-Analytics-Project/blob/main/customers.csv
+- Orders - https://github.com/Junaid30121997/FNP-Excel-Analytics-Project/blob/main/orders.csv
+- Products - https://github.com/Junaid30121997/FNP-Excel-Analytics-Project/blob/main/products%20(1).csv
 - /dashboard → Final Excel dashboard file (.xlsx)
 - /images → Screenshots of the dashboard
 
