@@ -34,6 +34,7 @@ It provides insights into revenue, customer behavior, top products, and city-wis
 
 - /data → Raw/Processed datasets
 - https://github.com/Junaid30121997/FNP-Excel-Analytics-Project/blob/main/customers.csv
+- https://github.com/Junaid30121997/FNP-Excel-Analytics-Project/blob/main/orders.csv
 - /dashboard → Final Excel dashboard file (.xlsx)
 - /images → Screenshots of the dashboard
 
