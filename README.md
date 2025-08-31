@@ -5,17 +5,27 @@ It provides insights into revenue, customer behavior, top products, and city-wis
 
 ## Features
 
--1000+ Orders Analyzed
--₹35,20,984 Total Revenue
--Avg Customer Spend: ₹3,520.98
--Order to Delivery Time: 5.53 days
--Revenue by:
--Occasion
--Category
--Month
--Hour of Order
--Top 5 Products by Revenue
--Top 10 Cities by Orders
+- 1000+ Orders Analyzed
+
+- ₹35,20,984 Total Revenue
+
+- Avg Customer Spend: ₹3,520.98
+
+- Order to Delivery Time: 5.53 days
+
+- Revenue by:
+  
+- Occasion
+  
+- Category
+  
+- Month
+  
+- our of Order
+  
+- Top 5 Products by Revenue
+
+- Top 10 Cities by Orders
 
 ##  Dashboard Preview
 ![Dashboard Screenshot](https://github.com/Junaid30121997/FNP-Excel-Analytics-Project/blob/main/1732002842215.jpg)
@@ -33,3 +43,8 @@ Pivot Tables
 Slicers
 Charts & Graphs
 Dashboard Design
+
+## Connect with Me
+LinkedIn: https://www.linkedin.com/in/mohammadjunaidahmed/
+GitHub Portfolio: https://github.com/Junaid30121997
+Email: mohammedjunaid689@gmail.com
