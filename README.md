@@ -36,6 +36,7 @@ It provides insights into revenue, customer behavior, top products, and city-wis
 - Customer - https://github.com/Junaid30121997/FNP-Excel-Analytics-Project/blob/main/customers.csv
 - Orders - https://github.com/Junaid30121997/FNP-Excel-Analytics-Project/blob/main/orders.csv
 - Products - https://github.com/Junaid30121997/FNP-Excel-Analytics-Project/blob/main/products%20(1).csv
+- Problem Statement - https://github.com/Junaid30121997/FNP-Excel-Analytics-Project/blob/main/Ferns%20and%20Petals%20Sales%20Analysis.pdf
 - /dashboard → Final Excel dashboard file (.xlsx)
 - /images → Screenshots of the dashboard
 
